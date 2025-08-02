@@ -191,7 +191,7 @@ Enabled learing_rate_reducer callback, and a small reducer_patience.
 <pre> 
 [train]
 learning_rate_reducer = True
-reducer_factor     = 0.5
+reducer_factor     = 0.4
 reducer_patience   = 4
 </pre>
 <b>Early stopping callback</b><br>
